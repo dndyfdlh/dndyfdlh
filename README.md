@@ -1,6 +1,6 @@
 # Hi there, I'm Dandy Fadillah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- Currently learning Computer Science at Universitas Mikroskil
+Bachelor of Computer Science from Universitas Mikroskil
  
  <p align="left">
 <a href="https://github.com/dndyfdlh">
